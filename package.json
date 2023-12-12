@@ -1,0 +1,18 @@
+{
+  "name": "tiktok-auto-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chance": "^1.1.11",
+    "faker": "^6.6.6",
+    "random-useragent": "^0.5.0",
+    "uuid": "^9.0.1"
+  }
+}
